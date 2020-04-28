@@ -1,11 +1,12 @@
-# deep-learning.ai
+# Deeplearning.ai
 
 There are 5 Courses in this Specialization
-COURSE 1: Neural Networks and Deep Learning
+
+COURSE 1: [Neural Networks and Deep Learning](https://github.com/ozgurpolat/deep-learning.ai/tree/master/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning)
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will: - Understand the major technology trends driving Deep Learning - Be able to build, train and apply fully connected deep neural networks - Know how to implement efficient (vectorized) neural networks - Understand the key parameters in a neural network's architecture This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. This is the first course of the Deep Learning Specialization.
 
-COURSE 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+COURSE 2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/ozgurpolat/deep-learning.ai/tree/master/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks/)
 
 This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow.
 
@@ -17,7 +18,7 @@ You will learn how to build a successful machine learning project. If you aspire
 
 Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience. After 2 weeks, you will: - Understand how to diagnose errors in a machine learning system, and - Be able to prioritize the most promising directions for reducing error - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance - Know how to apply end-to-end learning, transfer learning, and multi-task learning I've seen teams waste months or years through not understanding the principles taught in this course. I hope this two week course will save you months of time. This is a standalone course, and you can take this so long as you have basic machine learning knowledge. This is the third course in the Deep Learning Specialization.
 
-COURSE 4: Convolutional Neural Networks
+COURSE 4: [Convolutional Neural Networks](https://github.com/ozgurpolat/deep-learning.ai/tree/master/Deep%20Learning%20Specialization/Convolutional%20Neural%20Networks/)
 
 This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
 
